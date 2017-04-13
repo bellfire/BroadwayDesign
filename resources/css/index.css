@@ -1,6 +1,7 @@
 html{
   font-family: Helvetica;
   text-align: center;
+  align-content: center;
 }
 
 a{
@@ -16,7 +17,26 @@ h1{
   font-weight: bold;
 }
 
+h2{
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
 
+h3{
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4{
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 14px;
+  font-weight: normal;
+}
 
 #navoptions{
   font-size: 18px;
