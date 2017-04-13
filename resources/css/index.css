@@ -3,15 +3,27 @@ html{
   text-align: center;
 }
 
-
-#navpanel{
-  color: white;
-
+a{
+    font-size: 18px;
+    color: white;
 }
+
 
 h1{
   font-family: Helvetica;
   text-align: center;
   font-size: 70px;
   font-weight: bold;
+}
+
+
+
+#navoptions{
+  font-size: 18px;
+}
+
+
+#navpanel{
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
 }
