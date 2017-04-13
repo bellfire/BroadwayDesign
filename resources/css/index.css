@@ -53,3 +53,16 @@ h4{
   color: white;
   background-image: url(../images/the-flatiron-building.png);
 }
+
+#navbar{
+  align-content: left;
+  text-align: left;
+  background-color: dimgrey;
+}
+
+#copyright{
+  align-content: left;
+  text-align: left;
+  font-size: 11px;
+
+}
